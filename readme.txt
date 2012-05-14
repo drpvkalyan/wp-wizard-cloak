@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== WP Wizard Cloak ===
 Contributors: soflyy
 Tags: link, cloaker, affiliate
 Requires at least: 3.0
