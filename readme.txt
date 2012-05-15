@@ -7,32 +7,52 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Cloak, track, and manage your affiliate links. 
+WP Wizard Cloak cloaks, tracks, and shortens your links. Turn long URLs into your-domain.com/link.
 
 == Description ==
 
-= Shorten your links. Turn a long URLs into http://your-domain.com/short-url  =
+= Shorten your links. Turn long URLs into your-domain.com/short-url.  =
 
-WP Wizard Cloak is an easy-to-use, all-in-one WordPress plugin that makes it extremely easy to change long links into pretty, trackable, and search engine friendly cloaked links.
+Here's how it works:
+
+1) Click on 'Create Link' in the WP Wizard Cloak section of WordPress admin panel.
+
+2) Enter a name for the link (for management purposes) and a 'slug' name for the URL (for example, www.your-domain.com/slug-name).
+
+3) Enter the destination URL for the cloaked link, i.e. www.some-external-url.com/some-page
+
+4) Click 'Save Link.'
+
+**After that, you can use the WP Wizard Cloak-powered cloaked link everywhere you would have used the original URL.**
+
+WP Wizard Cloak will track clicks on your links, providing a detailed summary and information on individual clicks like browser type, IP address, country code, and referring URL.
+
 
 = Features = 
 
-Track your clicks for all time and trailing 24 hours. Export all click data to CSV.
-
-Track country code, IP, user agent, and referrer for all clicks.
+Generate click reports for any time period, and export all click data to CSV for further analysis. 
 
 Automatically turn keywords on your site into links. Specify the keyword and it will be replaced in your Pages/Posts with a link.
 
-Send visitors in different countries to different destinations. Useful for affiliate marketers who want to promote country-specific offers. http://your-domain.com/4-hour-work-week can send German visitors to Amazon.de and US visitors to Amazon.com.
+Send visitors in different countries to different destinations. Useful for affiliate marketers who want to promote country-specific offers. your-domain.com/4-hour-work-week can send German visitors to Amazon.de and US visitors to Amazon.com.
 
-Automatically match existing URLs on your site in your existing Pages/Posts. If you have links to whatever.com you can turn them all into links to yoursite.com/whatever.
+Automatically match existing URLs on your site in your existing Pages/Posts. If you have links to whatever.com you can turn them all into links to your-domain.com/whatever.
 
 Support for sub IDs. 
 
-Support for prefixed so you can have your-domain.com/prefix/yourlink
+Support for a prefix so you can have your-domain.com/prefix/your-link instead of your-domain.com/your-link
 
 == Changelog ==
 
 = 1.0 =
 * Initial release on WordPress.org.
+
+== Installation ==
+
+Either: -
+	* Upload the plugin from the Plugins page in WordPress
+	* Unzip wp-wizard-cloak.zip and upload the contents to /wp-content/plugins/, and then activate the plugin from the Plugins page in WordPress
+	
+**For best results** enable Pretty Permalinks from the Settings -> Permalinks page in WordPress. This will make your links look like http://www.your-domain.com/your-link instead of http://www.your-domain.com/?cloaked=your-link
+
 
