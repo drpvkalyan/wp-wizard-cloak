@@ -1,8 +1,8 @@
 === WP Wizard Cloak ===
 Contributors: soflyy
-Tags: link, cloaker, affiliate
+Tags: affiliate, link, cloaker, cloak, pretty, url, short, shortener, mask, redirect
 Requires at least: 3.0
-Tested up to: 3.3.2
+Tested up to: 3.4
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,7 +11,7 @@ WP Wizard Cloak cloaks, tracks, and shortens your links. Turn long URLs into you
 
 == Description ==
 
-= Shorten your links. Turn long URLs into your-domain.com/short-url.  =
+= Shorten your links. Turn long URLs into your-domain.com/short-url. Great for affiliate marketers who want to cloak their links, or anyone else who wants to have pretty URLs and track their outbound traffic. =
 
 Here's how it works:
 
