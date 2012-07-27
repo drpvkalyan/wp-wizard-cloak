@@ -1,5 +1,5 @@
 === WP Wizard Cloak ===
-Contributors: soflyy
+Contributors: soflyy, bestwebsoft
 Tags: link, cloaker, affiliate
 Requires at least: 3.0
 Tested up to: 3.3.2
